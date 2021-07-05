@@ -1,0 +1,10 @@
+# node
+dist/
+node_modules/
+
+# cache
+.history
+.vscode
+
+# cypress
+*.mp4
